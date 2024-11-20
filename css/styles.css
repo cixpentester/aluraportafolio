@@ -100,7 +100,7 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #6c33fa;
+  background-color: #5D04D9;
   color: white;
   margin-top: 1rem;
 }
@@ -110,5 +110,6 @@ footer {
   main {
     flex-direction: column;
     align-items: center;
+  
   }
 }
